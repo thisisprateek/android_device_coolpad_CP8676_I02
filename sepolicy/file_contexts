@@ -369,7 +369,6 @@
 /system/app/mcRegistry(/.*)? u:object_r:mobicore_data_file:s0
 /system/bin/6620_launcher u:object_r:mtk_6620_launcher_exec:s0
 /system/bin/stp_dump3 u:object_r:stp_dump3_exec:s0
-/system/bin/aal u:object_r:aal_exec:s0
 /system/bin/aee_core_forwarder u:object_r:aee_core_forwarder_exec:s0
 /system/bin/akmd09911 u:object_r:akmd09911_exec:s0
 #ly_zhangtao add for mag sensor start
@@ -428,7 +427,6 @@
 /system/bin/mvg_app u:object_r:mvg_app_exec:s0
 /system/bin/mmp u:object_r:mmp_exec:s0
 /system/bin/mobile_log_d u:object_r:mobile_log_d_exec:s0
-/system/bin/mpud6050 u:object_r:mpud6050_exec:s0
 /system/bin/msensord u:object_r:msensord_exec:s0
 /system/bin/mtk_agpsd u:object_r:mtk_agpsd_exec:s0
 /system/bin/MtkCodecService u:object_r:MtkCodecService_exec:s0
