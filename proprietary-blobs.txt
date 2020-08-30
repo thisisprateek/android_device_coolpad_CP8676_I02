@@ -338,9 +338,6 @@ etc/wide-dhcpv6/dhcp6c.script
 etc/wide-dhcpv6/dhcp6cctlkey
 etc/wide-dhcpv6/dhcp6c.conf
 
-lib/drm/libdrmmtkplugin.so
-lib/drm/libdrmctaplugin.so
-
 lib/ssl/engines/libkeystore.so
 
 lib/egl/libGLES_mali.so
