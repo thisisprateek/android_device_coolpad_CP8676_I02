@@ -374,9 +374,6 @@ lib/soundfx/libldnhncr.so
 lib/soundfx/libaudiopreprocessing.so
 lib/soundfx/libvisualizer.so
 
-lib/sml/Axfs
-lib/sml/Inifiles
-
 lib/libstagefright_yuv.so
 lib/libandroid.so
 lib/libmmplugin_beautyshot.so
