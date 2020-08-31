@@ -91,7 +91,6 @@ bin/bmm050d
 bin/getsebool
 bin/requestsync
 bin/screenrecord
-bin/badblocks
 bin/MtkCodecService
 bin/pppd_dt
 bin/lsm303md
@@ -877,7 +876,6 @@ lib64/libblisrc.so
 lib64/fct_vibrator.so
 lib64/fct_lcd.so
 lib64/libnativecheck-jni.so
-lib64/libjhead_jni.so
 lib64/libcam.sdkclient.so
 lib64/fct_bt.so
 lib64/libcam3_pipeline.so
@@ -939,8 +937,6 @@ vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/libwvm.so
 vendor/lib/libwvdrm_L3.so
 vendor/lib/libWVStreamControlAPI_L3.so
-
-vendor/lib64/mediadrm/libmockdrmcryptoplugin.so
 
 vendor/media/PFFprec_600.emd
 vendor/media/LMspeed_508.emd
