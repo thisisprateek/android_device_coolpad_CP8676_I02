@@ -310,7 +310,6 @@ lib/libmatv_cust.so
 lib/libstagefrighthw.so
 lib/libMtkOmxApeDec.so
 lib/libhotknot_vendor.so
-lib/libandroid_runtime.so
 lib/libcamera_client_mtk.so
 lib/libcustom_prop.so
 lib/libextbpp_jni.so
@@ -695,7 +694,6 @@ lib64/libmatv_cust.so
 lib64/libstagefrighthw.so
 lib64/libMtkOmxApeDec.so
 lib64/libhotknot_vendor.so
-lib64/libandroid_runtime.so
 lib64/libcamera_client_mtk.so
 lib64/libcustom_prop.so
 lib64/libdrmmtkutil.so
