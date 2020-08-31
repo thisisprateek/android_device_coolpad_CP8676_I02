@@ -926,7 +926,7 @@ lib64/libcustom_nvram.so
 lib64/libMtkOmxG711Dec.so
 lib64/libwifitest.so
 lib64/libWebXtend64.so
-libandroid_runtime.so
+lib64/libandroid_runtime.so
 
 usr/keylayout/ACCDET.kl
 usr/keylayout/AVRCP.kl
