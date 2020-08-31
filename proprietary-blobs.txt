@@ -529,6 +529,7 @@ lib/libbtpcm.so
 lib/libfgauge.so
 lib/libmme_jrtc.so
 lib/libandroid_servers.so
+lib/libandroid_runtime.so
 lib/libcam1_utils.so
 lib/lib_mt_image_jni.so
 lib/libsec_mem.so
@@ -925,6 +926,7 @@ lib64/libcustom_nvram.so
 lib64/libMtkOmxG711Dec.so
 lib64/libwifitest.so
 lib64/libWebXtend64.so
+libandroid_runtime.so
 
 usr/keylayout/ACCDET.kl
 usr/keylayout/AVRCP.kl
