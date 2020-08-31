@@ -270,7 +270,6 @@ etc/wide-dhcpv6/dhcp6c.conf
 lib/ssl/engines/libkeystore.so
 
 lib/egl/libGLES_mali.so
-lib/egl/libGLES_android.so
 
 lib/hw/gps.default.so
 lib/hw/hwcomposer.mt6753.so
@@ -278,12 +277,10 @@ lib/hw/keystore.mt6753.so
 lib/hw/mmsdk.default.so
 lib/hw/audio.primary.mt6753.so
 lib/hw/lights.default.so
-lib/hw/fingerprint.default.so
 lib/hw/camera.mt6753.so
 lib/hw/gralloc.mt6753.so
 lib/hw/memtrack.mt6753.so
 lib/hw/sensors.mt6753.so
-lib/hw/audio_policy.stub.so
 
 lib/libmmplugin_beautyshot.so
 lib/libJpgEncPipe.so
@@ -335,7 +332,6 @@ lib/libn3d3a.so
 lib/libRSDriver.so
 lib/libaed.so
 lib/libvixl.so
-lib/libLLVM.so
 lib/libcam3_hwnode.so
 lib/libbluetooth_mtk.so
 lib/libAGifEncoder.so
@@ -380,7 +376,6 @@ lib/libmmcamera_faceproc.so
 lib/libmmprofile_jni.so
 lib/libMtkOmxGsmDec.so
 lib/libgifEncoder_jni.so
-lib/libharfbuzz_ng.so
 lib/libMtkOmxAdpcmEnc.so
 lib/libmorpho_tracksolid.so
 lib/libextdun_jni.so
@@ -435,7 +430,6 @@ lib/libaudiosetting.so
 lib/fct_sdcard.so
 lib/libfeatureiodrv.so
 lib/libdirect-coredump.so
-lib/libext2fs.so
 lib/libart.so
 lib/libart-disassembler.so
 lib/libRS.so
@@ -456,7 +450,6 @@ lib/libbacktrace_libc++.so
 lib/libmhalImageCodec.so
 lib/libcam_utils.so
 lib/libipod.so
-lib/libstagefright_soft_h264dec.so
 lib/libcam_hwutils.so
 lib/libart-compiler.so
 lib/libclcore_neon.bc
@@ -468,7 +461,6 @@ lib/libbtcust.so
 lib/fct_gps.so
 lib/libBnMtkCodec.so
 lib/libmmjpeg2.so
-lib/libjhead.so
 lib/libdrmframework_jni.so
 lib/libjss_android.so
 lib/libfontutil_jni.so
@@ -483,7 +475,6 @@ lib/libmmplugin_bestpick.so
 lib/libcam.iopipe.so
 lib/libbtem.so
 lib/libRSCpuRef.so
-lib/libnativebridge.so
 lib/libexttestmode.so
 lib/libmmplugin_pickaction.so
 lib/libGdmaScalerPipe.so
@@ -501,24 +492,20 @@ lib/libMtkH264SecVdecTLCLib.so
 lib/libcam.camadapter.so
 lib/libJniAtvService.so
 lib/libgccdemangle.so
-lib/libcompiler_rt.so
 lib/libaudiodcrflt.so
 lib/libem_gpio_jni.so
 lib/libtlcWidevineClassicDrm.so
 lib/libmmsdkservice.feature_platform.so
 lib/libmmplugin_piczoom.so
 lib/libcam_platform.so
-lib/libmemtrack.so
 lib/libMcClient.so
 lib/libextftp.so
-lib/libext2_uuid.so
 lib/libmmplugin_hdr.so
 lib/fct_brightness.so
 lib/liblemon.so
 lib/libvp8enc_sa.ca7.so
 lib/libmtklimiter.so
 lib/libmmplugin_beautyshotpp.so
-lib/libstagefright_http_support.so
 lib/libAisound.so
 lib/libextsys_jni.so
 lib/fct_modem.so
@@ -527,10 +514,8 @@ lib/libem_sensor_jni.so
 lib/libMtkVideoTranscoder.so
 lib/libgui_ext.so
 lib/libmtksqlite3_android.so
-lib/libcommon_time_client.so
 lib/libnamelist.so
 lib/libsqlite_jni.so
-lib/libminikin.so
 lib/libfmmt6627.so
 lib/fct_breath.so
 lib/libmediatek_exceptionlog.so
@@ -547,7 +532,6 @@ lib/libmme_jrtc.so
 lib/libandroid_servers.so
 lib/libcam1_utils.so
 lib/lib_mt_image_jni.so
-lib/libprocessgroup.so
 lib/libsec_mem.so
 lib/libextmap_jni.so
 lib/libgraphite2.so
@@ -564,7 +548,6 @@ lib/libfmmt6630.so
 lib/libcurl.so
 lib/libFFTEm.so
 lib/libfmcust.so
-lib/libext4_utils.so
 lib/libmtkplayer.so
 lib/fct_camerafront.so
 lib/libem_bt_jni.so
@@ -582,8 +565,6 @@ lib/libimageeffectservice.so
 lib/libmmplugin_gazedetection.so
 lib/libTorch.so
 lib/fct_flashlight.so
-lib/libext2_com_err.so
-lib/libext2_e2p.so
 lib/libfilterfw.so
 lib/libjpgmp3mix.so
 lib/libblisrc.so
@@ -591,7 +572,6 @@ lib/fct_vibrator.so
 lib/libmmplugin_refocus.so
 lib/fct_lcd.so
 lib/libnativecheck-jni.so
-lib/libjhead_jni.so
 lib/libcam.sdkclient.so
 lib/fct_bt.so
 lib/libcam3_pipeline.so
@@ -629,23 +609,19 @@ lib/libmediandk.so
 lib/libacdk.so
 lib/libmsbc_mtk.so
 lib/libmpojni.so
-lib/libext2_blkid.so
 lib/libmtb.so
 lib/libmtcloader.so
 lib/libclcore.bc
 lib/libMcRegistry.so
 lib/libMtkOmxVenc.so
 lib/libcam.jni.lomohaljni.so
-lib/libext2_profile.so
 lib/libmdloggerrecycle.so
 lib/libtouchfilter.so
-lib/libstagefright_soft_h264enc.so
 lib/libdrmmtkwhitelist.so
 lib/libhwui.so
 lib/libjni_lomoeffect.so
 lib/libcam.hal3a.v3.so
 lib/libextbip_jni.so
-lib/libsparse.so
 lib/libcam3_hwpipeline.so
 lib/libbluetoothdrv.so
 lib/libsoundpool.so
@@ -666,15 +642,12 @@ lib64/hw/keystore.mt6753.so
 lib64/hw/mmsdk.default.so
 lib64/hw/audio.primary.mt6753.so
 lib64/hw/lights.default.so
-lib64/hw/fingerprint.default.so
 lib64/hw/camera.mt6753.so
 lib64/hw/gralloc.mt6753.so
 lib64/hw/memtrack.mt6753.so
 lib64/hw/sensors.mt6753.so
-lib64/hw/audio_policy.stub.so
 
 lib64/egl/libGLES_mali.so
-lib64/egl/libGLES_android.so
 
 lib64/libJpgEncPipe.so
 lib64/libGoodixTool.so
@@ -716,7 +689,6 @@ lib64/libn3d3a.so
 lib64/libRSDriver.so
 lib64/libaed.so
 lib64/libvixl.so
-lib64/libLLVM.so
 lib64/libcam3_hwnode.so
 lib64/libbluetooth_mtk.so
 lib64/libextsys.so
@@ -751,7 +723,6 @@ lib64/fct_hardver.so
 lib64/libblisrc32.so
 lib64/libmmprofile_jni.so
 lib64/libMtkOmxGsmDec.so
-lib64/libharfbuzz_ng.so
 lib64/libMtkOmxAdpcmEnc.so
 lib64/libcam3_utils.so
 lib64/libbluetoothem_mtk.so
@@ -810,7 +781,6 @@ lib64/libbcc.so
 lib64/libbacktrace_libc++.so
 lib64/libmhalImageCodec.so
 lib64/libcam_utils.so
-lib64/libstagefright_soft_h264dec.so
 lib64/libcam_hwutils.so
 lib64/liba3m.so
 lib64/lib3a.so
@@ -818,7 +788,6 @@ lib64/libgralloc_extra.so
 lib64/libmtk_drvb.so
 lib64/fct_gps.so
 lib64/libBnMtkCodec.so
-lib64/libjhead.so
 lib64/libdrmframework_jni.so
 lib64/libfontutil_jni.so
 lib64/libmmsdkservice.feature.so
@@ -830,7 +799,6 @@ lib64/libPQjni.so
 lib64/libcam.iopipe.so
 lib64/libbtem.so
 lib64/libRSCpuRef.so
-lib64/libnativebridge.so
 lib64/libGdmaScalerPipe.so
 lib64/libcam.utils.so
 lib64/libfct.so
@@ -842,18 +810,15 @@ lib64/libMtkOmxCore.so
 lib64/libMtkH264SecVdecTLCLib.so
 lib64/libcam.camadapter.so
 lib64/libgccdemangle.so
-lib64/libcompiler_rt.so
 lib64/libaudiodcrflt.so
 lib64/libem_gpio_jni.so
 lib64/libtlcWidevineClassicDrm.so
 lib64/libmmsdkservice.feature_platform.so
 lib64/libPowerStretch.so
 lib64/libcam_platform.so
-lib64/libmemtrack.so
 lib64/libMcClient.so
 lib64/fct_brightness.so
 lib64/libmtklimiter.so
-lib64/libstagefright_http_support.so
 lib64/libextsys_jni.so
 lib64/fct_modem.so
 lib64/libcam3_app.so
@@ -862,10 +827,7 @@ lib64/libjni_pacprocessor.so
 lib64/libMtkVideoTranscoder.so
 lib64/libgui_ext.so
 lib64/libmtksqlite3_android.so
-lib64/libcommon_time_client.so
-lib64/prop-blobs.lib64
 lib64/libsqlite_jni.so
-lib64/libminikin.so
 lib64/libfmmt6627.so
 lib64/libimsmedia_jni.so
 lib64/fct_breath.so
@@ -947,7 +909,6 @@ lib64/libMcRegistry.so
 lib64/libcam.jni.lomohaljni.so
 lib64/libmdloggerrecycle.so
 lib64/libtouchfilter.so
-lib64/libstagefright_soft_h264enc.so
 lib64/libdrmmtkwhitelist.so
 lib64/libhwui.so
 lib64/libjni_lomoeffect.so
@@ -971,9 +932,7 @@ usr/keylayout/ACCDET.kl
 usr/keylayout/AVRCP.kl
 usr/keylayout/mtk-kpd.kl
 
-vendor/lib/mediadrm/libmockdrmcryptoplugin.so
 vendor/lib/mediadrm/libwvdrmengine.so
-vendor/lib/mediadrm/libdrmclearkeyplugin.so
 
 vendor/lib/drm/libdrmwvmplugin.so
 
@@ -982,7 +941,6 @@ vendor/lib/libwvdrm_L3.so
 vendor/lib/libWVStreamControlAPI_L3.so
 
 vendor/lib64/mediadrm/libmockdrmcryptoplugin.so
-vendor/lib64/mediadrm/libdrmclearkeyplugin.so
 
 vendor/media/PFFprec_600.emd
 vendor/media/LMspeed_508.emd
@@ -991,6 +949,5 @@ xbin/mnld
 xbin/dexdump
 xbin/prop-blobs.xbin
 xbin/showmap
-xbin/sqlite3
 xbin/tcpdump
 xbin/BGW
