@@ -285,10 +285,6 @@ lib/hw/memtrack.mt6753.so
 lib/hw/sensors.mt6753.so
 lib/hw/audio_policy.stub.so
 
-
-lib/sml/Axfs
-lib/sml/Inifiles
-
 lib/libmmplugin_beautyshot.so
 lib/libJpgEncPipe.so
 lib/libGoodixTool.so
